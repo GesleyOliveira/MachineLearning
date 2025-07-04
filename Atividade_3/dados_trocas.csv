@@ -1,0 +1,1001 @@
+idade,bairro,produto,descricao,marca,estado,pontuacao
+62,Pacaembu,micro-ondas,unde,LG,funciona,100
+18,Pacaembu,Fogão,molestias,Electrolux,funciona,50
+50,Vossoroca,freezer,aliquid,Gradiente,defeito,120
+34,Pacaembu,micro-ondas,minima,Samsung,defeito,60
+35,Jd Primavera,ap de som,recusandae,Brastemp,funciona,40
+54,Campolim,computador,veniam,Gradiente,defeito,66
+56,Centro,ap de som,voluptatum,Electrolux,funciona,40
+60,Pacaembu,micro-ondas,perferendis,Brastemp,funciona,100
+34,Vossoroca,freezer,nostrum,Brastemp,funciona,200
+19,Pacaembu,computador,corporis,Gradiente,funciona,110
+27,Centro,micro-ondas,tenetur,Samsung,defeito,60
+52,Vossoroca,computador,doloremque,Gradiente,funciona,110
+43,Centro,ap de som,possimus,Samsung,defeito,24
+21,Centro,computador,rerum,Brastemp,defeito,66
+63,Centro,ap de som,saepe,Electrolux,defeito,24
+19,Centro,freezer,laboriosam,Gradiente,defeito,120
+53,Centro,micro-ondas,culpa,Electrolux,defeito,60
+18,Centro,freezer,pariatur,Electrolux,funciona,200
+32,Centro,ap de som,nobis,Electrolux,funciona,40
+33,Jd Primavera,micro-ondas,facilis,LG,funciona,100
+20,Campolim,Fogão,dolorem,Brastemp,funciona,50
+34,Vossoroca,computador,error,Brastemp,funciona,110
+37,Centro,TV,laborum,Electrolux,defeito,90
+34,Campolim,TV,ullam,Gradiente,funciona,150
+45,Pacaembu,micro-ondas,eos,Samsung,defeito,60
+66,Pacaembu,micro-ondas,possimus,LG,defeito,60
+51,Jd Primavera,micro-ondas,sapiente,Brastemp,defeito,60
+31,Pacaembu,computador,ullam,Electrolux,funciona,110
+53,Centro,ap de som,aperiam,Samsung,funciona,40
+30,Jd Primavera,micro-ondas,autem,Samsung,funciona,100
+65,Pacaembu,Fogão,pariatur,LG,funciona,50
+46,Jd Primavera,micro-ondas,delectus,LG,funciona,100
+19,Pacaembu,ap de som,quisquam,Samsung,defeito,24
+41,Jd Primavera,freezer,aliquid,Gradiente,funciona,200
+52,Centro,ap de som,doloribus,Gradiente,defeito,24
+55,Campolim,Fogão,incidunt,Gradiente,defeito,30
+59,Campolim,freezer,quis,Brastemp,funciona,200
+53,Campolim,Fogão,accusantium,LG,defeito,30
+41,Jd Primavera,freezer,reiciendis,LG,funciona,200
+42,Centro,micro-ondas,pariatur,Electrolux,defeito,60
+33,Vossoroca,TV,error,Brastemp,defeito,90
+65,Jd Primavera,ap de som,ducimus,Electrolux,defeito,24
+44,Centro,computador,recusandae,Brastemp,funciona,110
+40,Jd Primavera,freezer,expedita,Brastemp,defeito,120
+65,Campolim,TV,fugiat,Brastemp,defeito,90
+23,Campolim,Fogão,incidunt,Samsung,funciona,50
+55,Pacaembu,ap de som,voluptatibus,LG,funciona,40
+46,Campolim,ap de som,et,Gradiente,funciona,40
+46,Campolim,ap de som,ea,Brastemp,funciona,40
+56,Pacaembu,TV,tenetur,Electrolux,defeito,90
+37,Pacaembu,Fogão,ratione,Electrolux,defeito,30
+42,Pacaembu,freezer,accusamus,LG,funciona,200
+44,Centro,Fogão,doloribus,Samsung,funciona,50
+56,Vossoroca,ap de som,recusandae,LG,defeito,24
+68,Pacaembu,TV,debitis,LG,defeito,90
+25,Pacaembu,ap de som,totam,Gradiente,defeito,24
+38,Centro,freezer,harum,Gradiente,funciona,200
+61,Pacaembu,computador,autem,Gradiente,funciona,110
+38,Vossoroca,micro-ondas,labore,Electrolux,defeito,60
+68,Jd Primavera,computador,nobis,Brastemp,funciona,110
+23,Jd Primavera,Fogão,quis,Electrolux,defeito,30
+67,Campolim,TV,quam,LG,funciona,150
+59,Campolim,Fogão,magnam,LG,defeito,30
+27,Vossoroca,micro-ondas,odio,Samsung,funciona,100
+38,Vossoroca,ap de som,error,LG,funciona,40
+67,Vossoroca,Fogão,repellendus,LG,funciona,50
+33,Jd Primavera,Fogão,eius,LG,defeito,30
+55,Centro,TV,ex,Samsung,funciona,150
+34,Campolim,ap de som,alias,Gradiente,funciona,40
+18,Pacaembu,computador,voluptatum,Samsung,defeito,66
+45,Campolim,computador,eum,Brastemp,funciona,110
+42,Pacaembu,micro-ondas,perferendis,Samsung,defeito,60
+18,Jd Primavera,Fogão,sapiente,Brastemp,funciona,50
+43,Centro,freezer,odio,Gradiente,funciona,200
+53,Vossoroca,TV,dolor,Brastemp,defeito,90
+32,Pacaembu,micro-ondas,magni,Electrolux,defeito,60
+47,Campolim,Fogão,architecto,Brastemp,funciona,50
+38,Pacaembu,micro-ondas,quidem,Electrolux,defeito,60
+28,Centro,freezer,nihil,LG,funciona,200
+24,Pacaembu,computador,inventore,Gradiente,defeito,66
+29,Centro,Fogão,rem,Brastemp,funciona,50
+52,Jd Primavera,computador,deleniti,Gradiente,funciona,110
+64,Centro,micro-ondas,deleniti,Electrolux,funciona,100
+25,Vossoroca,ap de som,adipisci,Brastemp,defeito,24
+55,Jd Primavera,freezer,voluptatem,Gradiente,defeito,120
+54,Vossoroca,computador,tempore,Samsung,funciona,110
+19,Campolim,micro-ondas,tempore,Gradiente,defeito,60
+45,Campolim,computador,voluptate,Gradiente,funciona,110
+19,Vossoroca,computador,iusto,LG,defeito,66
+49,Vossoroca,TV,eligendi,Brastemp,defeito,90
+42,Vossoroca,computador,inventore,LG,funciona,110
+39,Campolim,computador,provident,LG,funciona,110
+46,Centro,computador,veniam,Electrolux,funciona,110
+42,Pacaembu,computador,et,LG,funciona,110
+70,Campolim,ap de som,architecto,Samsung,funciona,40
+43,Campolim,TV,laudantium,Samsung,funciona,150
+29,Vossoroca,ap de som,vel,Gradiente,defeito,24
+64,Campolim,micro-ondas,libero,LG,funciona,100
+28,Jd Primavera,ap de som,nostrum,Brastemp,funciona,40
+52,Campolim,ap de som,laborum,Brastemp,defeito,24
+64,Centro,micro-ondas,atque,Brastemp,defeito,60
+23,Campolim,ap de som,commodi,LG,defeito,24
+20,Vossoroca,TV,iste,Gradiente,defeito,90
+28,Campolim,TV,quos,Brastemp,funciona,150
+26,Jd Primavera,ap de som,atque,LG,funciona,40
+55,Vossoroca,computador,soluta,Brastemp,funciona,110
+67,Campolim,ap de som,libero,Electrolux,funciona,40
+59,Campolim,freezer,dicta,Gradiente,defeito,120
+52,Centro,TV,perspiciatis,Samsung,funciona,150
+28,Campolim,micro-ondas,mollitia,Electrolux,funciona,100
+24,Jd Primavera,micro-ondas,vel,Samsung,funciona,100
+58,Pacaembu,ap de som,voluptatum,Samsung,funciona,40
+66,Centro,freezer,similique,Samsung,defeito,120
+20,Jd Primavera,Fogão,expedita,Electrolux,defeito,30
+68,Pacaembu,micro-ondas,molestiae,Gradiente,defeito,60
+60,Pacaembu,TV,officia,Gradiente,defeito,90
+23,Jd Primavera,Fogão,ad,LG,defeito,30
+24,Pacaembu,ap de som,sunt,Brastemp,defeito,24
+31,Centro,micro-ondas,illo,Brastemp,funciona,100
+59,Campolim,freezer,vel,Samsung,defeito,120
+34,Pacaembu,Fogão,perferendis,Gradiente,defeito,30
+26,Vossoroca,micro-ondas,magnam,Electrolux,defeito,60
+35,Jd Primavera,ap de som,laborum,Brastemp,funciona,40
+49,Centro,freezer,voluptatem,LG,defeito,120
+39,Pacaembu,ap de som,accusantium,Brastemp,funciona,40
+40,Pacaembu,ap de som,dolorum,Brastemp,funciona,40
+64,Centro,micro-ondas,velit,Brastemp,defeito,60
+32,Campolim,freezer,sunt,Brastemp,defeito,120
+40,Vossoroca,ap de som,facere,Gradiente,funciona,40
+29,Vossoroca,Fogão,molestiae,Gradiente,defeito,30
+45,Centro,ap de som,maiores,Brastemp,funciona,40
+37,Jd Primavera,freezer,expedita,Samsung,funciona,200
+43,Jd Primavera,micro-ondas,id,Gradiente,defeito,60
+70,Centro,computador,harum,LG,funciona,110
+49,Centro,TV,assumenda,Samsung,defeito,90
+24,Centro,Fogão,tempora,Brastemp,defeito,30
+60,Campolim,ap de som,labore,Gradiente,funciona,40
+43,Pacaembu,TV,iste,Electrolux,defeito,90
+30,Centro,ap de som,distinctio,Electrolux,funciona,40
+46,Jd Primavera,TV,beatae,Brastemp,funciona,150
+60,Pacaembu,computador,atque,Electrolux,funciona,110
+44,Centro,freezer,placeat,Gradiente,funciona,200
+23,Jd Primavera,Fogão,recusandae,LG,defeito,30
+61,Vossoroca,Fogão,voluptas,Electrolux,funciona,50
+28,Campolim,computador,distinctio,Brastemp,defeito,66
+39,Centro,Fogão,minus,Brastemp,funciona,50
+40,Campolim,freezer,ipsa,Gradiente,funciona,200
+24,Centro,freezer,hic,Samsung,defeito,120
+19,Jd Primavera,ap de som,facilis,Brastemp,funciona,40
+51,Jd Primavera,computador,earum,Samsung,defeito,66
+40,Campolim,Fogão,magnam,Brastemp,funciona,50
+39,Jd Primavera,TV,reprehenderit,Brastemp,funciona,150
+60,Centro,freezer,asperiores,Brastemp,defeito,120
+52,Vossoroca,ap de som,laudantium,LG,funciona,40
+63,Vossoroca,Fogão,doloremque,Samsung,defeito,30
+46,Vossoroca,freezer,et,Electrolux,defeito,120
+48,Vossoroca,Fogão,ullam,Samsung,defeito,30
+28,Pacaembu,ap de som,reiciendis,Gradiente,defeito,24
+60,Centro,micro-ondas,quae,LG,funciona,100
+54,Centro,micro-ondas,quidem,Samsung,defeito,60
+49,Jd Primavera,freezer,accusantium,LG,defeito,120
+53,Centro,ap de som,velit,Electrolux,funciona,40
+58,Pacaembu,TV,beatae,Electrolux,funciona,150
+55,Pacaembu,TV,mollitia,Samsung,funciona,150
+36,Vossoroca,freezer,distinctio,Brastemp,defeito,120
+50,Pacaembu,Fogão,a,LG,funciona,50
+20,Jd Primavera,freezer,natus,Brastemp,funciona,200
+41,Pacaembu,computador,officiis,Gradiente,funciona,110
+47,Campolim,TV,placeat,Gradiente,defeito,90
+70,Jd Primavera,TV,eligendi,Samsung,defeito,90
+56,Campolim,computador,aut,Gradiente,funciona,110
+47,Vossoroca,freezer,vel,Gradiente,defeito,120
+22,Campolim,Fogão,vel,LG,defeito,30
+46,Jd Primavera,computador,neque,LG,defeito,66
+68,Centro,TV,quibusdam,LG,defeito,90
+57,Jd Primavera,micro-ondas,nemo,Gradiente,defeito,60
+37,Campolim,Fogão,non,LG,funciona,50
+57,Centro,ap de som,dignissimos,Gradiente,defeito,24
+69,Centro,freezer,culpa,Electrolux,defeito,120
+65,Vossoroca,Fogão,debitis,Gradiente,defeito,30
+39,Centro,Fogão,voluptas,LG,defeito,30
+23,Vossoroca,Fogão,possimus,Electrolux,funciona,50
+63,Campolim,Fogão,velit,Electrolux,defeito,30
+48,Campolim,micro-ondas,enim,Brastemp,defeito,60
+56,Jd Primavera,Fogão,eaque,Electrolux,funciona,50
+38,Pacaembu,micro-ondas,nobis,Gradiente,defeito,60
+62,Vossoroca,micro-ondas,unde,Samsung,defeito,60
+18,Pacaembu,freezer,tempore,Brastemp,defeito,120
+51,Jd Primavera,computador,mollitia,Brastemp,funciona,110
+22,Jd Primavera,ap de som,placeat,Electrolux,defeito,24
+40,Vossoroca,computador,officia,Gradiente,defeito,66
+62,Pacaembu,freezer,molestias,Electrolux,defeito,120
+36,Pacaembu,ap de som,laborum,Gradiente,funciona,40
+46,Centro,Fogão,velit,LG,defeito,30
+65,Campolim,computador,aliquid,LG,defeito,66
+56,Pacaembu,freezer,quae,Electrolux,funciona,200
+25,Pacaembu,computador,eligendi,Samsung,funciona,110
+41,Vossoroca,ap de som,blanditiis,Gradiente,defeito,24
+40,Campolim,freezer,expedita,Brastemp,defeito,120
+64,Jd Primavera,TV,similique,Gradiente,defeito,90
+63,Centro,computador,ex,LG,defeito,66
+34,Campolim,Fogão,iste,Electrolux,funciona,50
+68,Jd Primavera,micro-ondas,necessitatibus,Gradiente,funciona,100
+27,Vossoroca,micro-ondas,consequatur,Brastemp,funciona,100
+35,Centro,micro-ondas,adipisci,Gradiente,funciona,100
+26,Vossoroca,ap de som,unde,Samsung,defeito,24
+70,Centro,ap de som,deleniti,LG,defeito,24
+21,Pacaembu,Fogão,mollitia,Gradiente,defeito,30
+45,Pacaembu,freezer,doloribus,Samsung,funciona,200
+33,Jd Primavera,TV,atque,Gradiente,funciona,150
+18,Campolim,TV,atque,Samsung,defeito,90
+28,Campolim,freezer,qui,Brastemp,defeito,120
+46,Campolim,computador,ea,Electrolux,defeito,66
+27,Campolim,Fogão,dolores,Gradiente,defeito,30
+37,Vossoroca,micro-ondas,saepe,Gradiente,funciona,100
+40,Pacaembu,Fogão,corrupti,LG,defeito,30
+20,Vossoroca,micro-ondas,aperiam,Samsung,defeito,60
+29,Vossoroca,micro-ondas,nulla,Electrolux,defeito,60
+48,Campolim,freezer,debitis,Gradiente,funciona,200
+21,Jd Primavera,ap de som,accusamus,Brastemp,funciona,40
+46,Vossoroca,Fogão,voluptates,Electrolux,defeito,30
+67,Centro,TV,pariatur,Brastemp,defeito,90
+23,Pacaembu,ap de som,reprehenderit,LG,funciona,40
+31,Jd Primavera,micro-ondas,ducimus,LG,defeito,60
+37,Jd Primavera,micro-ondas,voluptates,Electrolux,defeito,60
+31,Pacaembu,freezer,cupiditate,Brastemp,defeito,120
+63,Pacaembu,freezer,reiciendis,Brastemp,funciona,200
+22,Centro,micro-ondas,repudiandae,Electrolux,funciona,100
+46,Vossoroca,computador,tenetur,Brastemp,funciona,110
+32,Vossoroca,micro-ondas,velit,LG,defeito,60
+27,Vossoroca,micro-ondas,odit,Brastemp,funciona,100
+26,Vossoroca,micro-ondas,dignissimos,Brastemp,funciona,100
+36,Jd Primavera,Fogão,asperiores,Electrolux,funciona,50
+63,Pacaembu,TV,eos,LG,funciona,150
+38,Pacaembu,ap de som,perspiciatis,LG,defeito,24
+54,Centro,micro-ondas,rem,Electrolux,funciona,100
+18,Pacaembu,TV,aperiam,Gradiente,funciona,150
+66,Jd Primavera,computador,accusamus,Electrolux,funciona,110
+63,Vossoroca,computador,ipsa,Gradiente,defeito,66
+70,Vossoroca,micro-ondas,quo,Brastemp,defeito,60
+45,Centro,Fogão,molestias,Electrolux,defeito,30
+69,Vossoroca,Fogão,eos,Samsung,defeito,30
+69,Pacaembu,freezer,voluptatibus,Gradiente,defeito,120
+61,Pacaembu,ap de som,ut,Brastemp,funciona,40
+38,Jd Primavera,TV,corrupti,Brastemp,defeito,90
+28,Pacaembu,freezer,blanditiis,Electrolux,defeito,120
+55,Centro,Fogão,sapiente,Samsung,defeito,30
+26,Pacaembu,computador,atque,Samsung,funciona,110
+57,Centro,computador,ullam,LG,funciona,110
+59,Pacaembu,freezer,totam,Gradiente,funciona,200
+54,Jd Primavera,Fogão,impedit,Samsung,funciona,50
+23,Vossoroca,freezer,dicta,Electrolux,funciona,200
+34,Pacaembu,Fogão,perspiciatis,Brastemp,defeito,30
+34,Campolim,freezer,deleniti,LG,funciona,200
+63,Jd Primavera,TV,nulla,Brastemp,defeito,90
+65,Pacaembu,TV,enim,Electrolux,defeito,90
+31,Centro,freezer,amet,Samsung,funciona,200
+64,Centro,freezer,in,Brastemp,defeito,120
+60,Campolim,micro-ondas,illo,Electrolux,funciona,100
+35,Centro,computador,officia,LG,funciona,110
+24,Centro,computador,rerum,Samsung,defeito,66
+53,Pacaembu,computador,quod,Electrolux,funciona,110
+33,Pacaembu,freezer,debitis,Samsung,defeito,120
+23,Vossoroca,TV,veniam,Samsung,defeito,90
+38,Pacaembu,computador,libero,Brastemp,defeito,66
+21,Campolim,computador,hic,Brastemp,defeito,66
+27,Centro,computador,facere,Electrolux,defeito,66
+30,Campolim,Fogão,perspiciatis,LG,funciona,50
+35,Vossoroca,Fogão,id,Brastemp,defeito,30
+62,Campolim,computador,labore,Gradiente,funciona,110
+61,Campolim,computador,ullam,Electrolux,funciona,110
+60,Centro,Fogão,ducimus,Samsung,defeito,30
+61,Pacaembu,micro-ondas,amet,Electrolux,funciona,100
+66,Jd Primavera,TV,laudantium,Brastemp,defeito,90
+67,Campolim,TV,ullam,Gradiente,defeito,90
+63,Campolim,freezer,repellat,Gradiente,funciona,200
+22,Vossoroca,freezer,distinctio,Electrolux,defeito,120
+39,Centro,ap de som,iure,Gradiente,defeito,24
+63,Pacaembu,freezer,sequi,LG,defeito,120
+65,Vossoroca,computador,deserunt,Gradiente,defeito,66
+43,Jd Primavera,computador,dolore,Brastemp,defeito,66
+36,Centro,computador,reiciendis,Samsung,defeito,66
+33,Centro,freezer,aliquam,Electrolux,funciona,200
+61,Centro,TV,architecto,Samsung,funciona,150
+62,Centro,computador,eveniet,Brastemp,funciona,110
+25,Pacaembu,Fogão,ratione,Gradiente,defeito,30
+60,Centro,micro-ondas,hic,Gradiente,defeito,60
+27,Pacaembu,freezer,quae,Brastemp,defeito,120
+68,Jd Primavera,freezer,iure,Brastemp,defeito,120
+70,Jd Primavera,TV,dolore,Gradiente,defeito,90
+51,Jd Primavera,TV,quaerat,Samsung,defeito,90
+46,Centro,ap de som,voluptas,Brastemp,funciona,40
+18,Centro,ap de som,alias,Electrolux,funciona,40
+63,Campolim,TV,maxime,Gradiente,defeito,90
+35,Vossoroca,ap de som,molestias,Samsung,defeito,24
+46,Jd Primavera,computador,repellendus,Electrolux,defeito,66
+46,Centro,TV,recusandae,LG,defeito,90
+38,Jd Primavera,freezer,officiis,LG,funciona,200
+48,Vossoroca,freezer,magni,Samsung,funciona,200
+44,Centro,ap de som,amet,Electrolux,funciona,40
+34,Pacaembu,ap de som,iure,Brastemp,defeito,24
+52,Pacaembu,TV,ducimus,LG,defeito,90
+30,Campolim,micro-ondas,numquam,LG,funciona,100
+46,Campolim,ap de som,aspernatur,Gradiente,defeito,24
+48,Vossoroca,TV,et,Electrolux,defeito,90
+32,Pacaembu,Fogão,nisi,Samsung,funciona,50
+45,Pacaembu,TV,sed,Gradiente,funciona,150
+52,Centro,TV,cumque,Brastemp,funciona,150
+44,Pacaembu,Fogão,nulla,Samsung,defeito,30
+20,Campolim,freezer,dolor,Gradiente,defeito,120
+46,Centro,freezer,deleniti,LG,funciona,200
+21,Vossoroca,TV,a,Brastemp,funciona,150
+19,Campolim,micro-ondas,impedit,Brastemp,defeito,60
+47,Jd Primavera,freezer,iure,LG,funciona,200
+59,Vossoroca,ap de som,rem,Samsung,funciona,40
+48,Vossoroca,ap de som,facilis,Electrolux,funciona,40
+60,Jd Primavera,ap de som,dicta,LG,funciona,40
+67,Pacaembu,Fogão,rerum,Samsung,funciona,50
+41,Pacaembu,freezer,deleniti,Electrolux,defeito,120
+44,Jd Primavera,ap de som,occaecati,Samsung,funciona,40
+61,Campolim,computador,maiores,Electrolux,funciona,110
+70,Vossoroca,micro-ondas,error,Gradiente,funciona,100
+41,Centro,ap de som,dicta,Samsung,funciona,40
+62,Centro,Fogão,provident,LG,funciona,50
+33,Jd Primavera,ap de som,quia,Electrolux,funciona,40
+67,Vossoroca,computador,perferendis,Electrolux,defeito,66
+63,Vossoroca,Fogão,excepturi,LG,funciona,50
+66,Vossoroca,micro-ondas,architecto,Samsung,funciona,100
+25,Centro,Fogão,dolorum,Gradiente,defeito,30
+24,Pacaembu,freezer,laborum,LG,funciona,200
+54,Campolim,computador,nam,Samsung,funciona,110
+36,Pacaembu,ap de som,nesciunt,Samsung,defeito,24
+29,Pacaembu,micro-ondas,velit,Electrolux,funciona,100
+47,Pacaembu,TV,saepe,Gradiente,defeito,90
+49,Jd Primavera,computador,officiis,Brastemp,funciona,110
+23,Campolim,ap de som,doloribus,Samsung,defeito,24
+24,Vossoroca,micro-ondas,sint,Brastemp,funciona,100
+66,Campolim,ap de som,quidem,Samsung,defeito,24
+28,Pacaembu,Fogão,provident,Electrolux,funciona,50
+21,Centro,TV,doloribus,Gradiente,defeito,90
+21,Jd Primavera,computador,repellat,Electrolux,defeito,66
+69,Pacaembu,Fogão,ab,LG,defeito,30
+69,Jd Primavera,freezer,repellat,Electrolux,funciona,200
+58,Jd Primavera,Fogão,eveniet,Electrolux,defeito,30
+18,Pacaembu,ap de som,id,Samsung,defeito,24
+37,Jd Primavera,micro-ondas,quisquam,LG,defeito,60
+22,Jd Primavera,computador,ipsa,Electrolux,defeito,66
+50,Pacaembu,micro-ondas,cupiditate,Gradiente,defeito,60
+51,Vossoroca,freezer,magni,Gradiente,defeito,120
+37,Centro,ap de som,doloremque,LG,defeito,24
+19,Campolim,freezer,eveniet,LG,funciona,200
+23,Campolim,TV,odio,Brastemp,funciona,150
+21,Pacaembu,Fogão,enim,Brastemp,funciona,50
+57,Vossoroca,freezer,sed,Gradiente,defeito,120
+61,Campolim,TV,exercitationem,Brastemp,funciona,150
+40,Pacaembu,micro-ondas,sequi,LG,funciona,100
+28,Vossoroca,ap de som,voluptate,Gradiente,defeito,24
+51,Centro,TV,cumque,Brastemp,defeito,90
+36,Vossoroca,ap de som,doloremque,LG,funciona,40
+69,Vossoroca,ap de som,consequuntur,LG,funciona,40
+47,Pacaembu,computador,cum,Gradiente,funciona,110
+52,Pacaembu,ap de som,quae,Gradiente,funciona,40
+38,Campolim,Fogão,ea,Electrolux,defeito,30
+61,Pacaembu,ap de som,animi,Brastemp,defeito,24
+45,Vossoroca,ap de som,enim,Brastemp,defeito,24
+35,Pacaembu,micro-ondas,cum,LG,defeito,60
+62,Campolim,Fogão,voluptate,Samsung,funciona,50
+42,Pacaembu,freezer,aspernatur,Electrolux,funciona,200
+23,Centro,freezer,dolor,Samsung,defeito,120
+51,Centro,computador,repellendus,Samsung,defeito,66
+34,Campolim,TV,non,Brastemp,defeito,90
+59,Centro,ap de som,reprehenderit,Gradiente,defeito,24
+37,Pacaembu,micro-ondas,consequatur,Samsung,funciona,100
+25,Jd Primavera,freezer,suscipit,Gradiente,defeito,120
+24,Vossoroca,micro-ondas,sit,Gradiente,defeito,60
+40,Campolim,computador,veritatis,Brastemp,funciona,110
+25,Campolim,micro-ondas,commodi,LG,defeito,60
+67,Campolim,ap de som,quaerat,Gradiente,defeito,24
+31,Pacaembu,micro-ondas,minima,Gradiente,defeito,60
+36,Vossoroca,computador,excepturi,Brastemp,defeito,66
+24,Vossoroca,computador,minus,LG,defeito,66
+39,Jd Primavera,Fogão,perferendis,Gradiente,funciona,50
+50,Jd Primavera,ap de som,debitis,Gradiente,funciona,40
+37,Jd Primavera,freezer,vero,Electrolux,defeito,120
+62,Vossoroca,micro-ondas,eum,Samsung,funciona,100
+63,Pacaembu,freezer,praesentium,LG,funciona,200
+20,Pacaembu,Fogão,dolores,Electrolux,funciona,50
+37,Centro,ap de som,suscipit,Electrolux,defeito,24
+57,Pacaembu,Fogão,repudiandae,LG,funciona,50
+65,Centro,Fogão,voluptas,Gradiente,funciona,50
+54,Vossoroca,TV,reiciendis,Gradiente,funciona,150
+50,Centro,ap de som,quia,Brastemp,funciona,40
+39,Vossoroca,computador,enim,Electrolux,funciona,110
+66,Vossoroca,TV,sed,Samsung,defeito,90
+27,Pacaembu,computador,rem,Samsung,defeito,66
+21,Jd Primavera,ap de som,nesciunt,Brastemp,defeito,24
+43,Pacaembu,micro-ondas,impedit,Brastemp,funciona,100
+34,Centro,freezer,quam,LG,funciona,200
+54,Vossoroca,TV,fugiat,Electrolux,funciona,150
+63,Vossoroca,ap de som,voluptatibus,LG,funciona,40
+61,Pacaembu,Fogão,blanditiis,Gradiente,defeito,30
+67,Centro,freezer,illum,Gradiente,defeito,120
+43,Vossoroca,TV,maiores,Brastemp,defeito,90
+45,Vossoroca,micro-ondas,delectus,LG,defeito,60
+18,Vossoroca,freezer,quos,Brastemp,defeito,120
+23,Centro,TV,ea,Samsung,funciona,150
+70,Vossoroca,freezer,perferendis,Electrolux,defeito,120
+58,Vossoroca,micro-ondas,quibusdam,Gradiente,funciona,100
+33,Centro,micro-ondas,excepturi,LG,funciona,100
+59,Jd Primavera,TV,cumque,Brastemp,defeito,90
+37,Campolim,Fogão,at,Gradiente,defeito,30
+58,Vossoroca,freezer,omnis,Gradiente,funciona,200
+18,Pacaembu,TV,id,Gradiente,defeito,90
+38,Centro,ap de som,explicabo,Brastemp,defeito,24
+44,Centro,freezer,doloribus,Gradiente,funciona,200
+70,Jd Primavera,Fogão,occaecati,Gradiente,defeito,30
+27,Jd Primavera,freezer,et,Samsung,funciona,200
+60,Vossoroca,Fogão,itaque,Brastemp,funciona,50
+20,Campolim,ap de som,a,Samsung,funciona,40
+45,Jd Primavera,Fogão,ratione,Electrolux,defeito,30
+31,Campolim,TV,eveniet,Samsung,funciona,150
+51,Jd Primavera,micro-ondas,blanditiis,Samsung,funciona,100
+57,Centro,computador,ducimus,Brastemp,defeito,66
+20,Pacaembu,ap de som,neque,LG,funciona,40
+53,Vossoroca,micro-ondas,pariatur,Samsung,defeito,60
+68,Campolim,Fogão,assumenda,Samsung,defeito,30
+50,Centro,computador,voluptatem,LG,funciona,110
+49,Pacaembu,ap de som,maxime,Electrolux,funciona,40
+62,Pacaembu,micro-ondas,esse,Brastemp,defeito,60
+66,Pacaembu,TV,temporibus,Gradiente,defeito,90
+49,Centro,TV,molestiae,Electrolux,defeito,90
+37,Campolim,freezer,odio,Gradiente,defeito,120
+53,Pacaembu,computador,blanditiis,LG,defeito,66
+56,Centro,micro-ondas,consectetur,Electrolux,defeito,60
+44,Campolim,TV,ipsum,Electrolux,defeito,90
+39,Campolim,freezer,velit,Gradiente,defeito,120
+45,Campolim,computador,ipsum,LG,funciona,110
+45,Jd Primavera,TV,voluptates,Samsung,defeito,90
+64,Vossoroca,freezer,ea,Gradiente,defeito,120
+65,Pacaembu,micro-ondas,voluptatibus,Gradiente,funciona,100
+46,Vossoroca,ap de som,delectus,LG,funciona,40
+27,Centro,micro-ondas,quam,Electrolux,defeito,60
+53,Centro,computador,deleniti,Samsung,funciona,110
+52,Centro,computador,maxime,Samsung,funciona,110
+64,Vossoroca,TV,voluptatum,Brastemp,defeito,90
+61,Vossoroca,freezer,at,Brastemp,funciona,200
+30,Pacaembu,computador,error,Samsung,funciona,110
+48,Jd Primavera,TV,odio,Gradiente,defeito,90
+59,Jd Primavera,TV,porro,LG,funciona,150
+61,Centro,freezer,veritatis,Electrolux,defeito,120
+49,Centro,micro-ondas,ipsum,Gradiente,defeito,60
+63,Pacaembu,TV,aut,Brastemp,funciona,150
+38,Pacaembu,Fogão,ipsa,Electrolux,defeito,30
+55,Pacaembu,TV,expedita,Samsung,funciona,150
+65,Campolim,TV,eum,LG,defeito,90
+64,Vossoroca,micro-ondas,voluptate,Brastemp,defeito,60
+20,Centro,Fogão,praesentium,Samsung,defeito,30
+23,Jd Primavera,TV,velit,Brastemp,defeito,90
+47,Jd Primavera,computador,eum,Samsung,funciona,110
+33,Pacaembu,freezer,atque,Samsung,funciona,200
+55,Campolim,Fogão,quas,Electrolux,funciona,50
+56,Centro,ap de som,deleniti,Brastemp,funciona,40
+68,Jd Primavera,ap de som,consequuntur,Electrolux,funciona,40
+67,Campolim,freezer,minus,Samsung,funciona,200
+45,Jd Primavera,micro-ondas,placeat,Gradiente,funciona,100
+29,Vossoroca,ap de som,sapiente,Gradiente,funciona,40
+24,Jd Primavera,freezer,est,Electrolux,defeito,120
+45,Campolim,micro-ondas,reiciendis,Electrolux,funciona,100
+56,Pacaembu,Fogão,quia,LG,funciona,50
+57,Jd Primavera,TV,amet,Electrolux,defeito,90
+33,Campolim,ap de som,voluptatibus,Brastemp,defeito,24
+65,Vossoroca,Fogão,animi,Brastemp,funciona,50
+24,Jd Primavera,freezer,adipisci,LG,defeito,120
+19,Jd Primavera,Fogão,repellendus,LG,funciona,50
+31,Campolim,freezer,voluptate,Gradiente,funciona,200
+30,Jd Primavera,freezer,commodi,Samsung,funciona,200
+23,Pacaembu,computador,occaecati,Brastemp,funciona,110
+51,Centro,micro-ondas,aliquid,LG,defeito,60
+18,Vossoroca,computador,ex,Samsung,funciona,110
+41,Jd Primavera,computador,facilis,LG,defeito,66
+59,Vossoroca,computador,ex,Brastemp,defeito,66
+67,Campolim,freezer,voluptates,Samsung,funciona,200
+61,Jd Primavera,ap de som,a,Brastemp,funciona,40
+33,Pacaembu,freezer,consectetur,Electrolux,defeito,120
+53,Campolim,ap de som,doloribus,Brastemp,defeito,24
+29,Campolim,freezer,laboriosam,LG,defeito,120
+19,Vossoroca,Fogão,beatae,LG,defeito,30
+25,Pacaembu,freezer,facere,Samsung,funciona,200
+18,Centro,Fogão,repellendus,Electrolux,defeito,30
+24,Pacaembu,freezer,sit,Samsung,defeito,120
+51,Pacaembu,micro-ondas,eligendi,Electrolux,defeito,60
+33,Pacaembu,freezer,dolorem,Electrolux,funciona,200
+49,Centro,freezer,beatae,Samsung,funciona,200
+19,Campolim,computador,neque,Samsung,funciona,110
+20,Pacaembu,freezer,a,Gradiente,defeito,120
+29,Vossoroca,ap de som,error,LG,funciona,40
+39,Pacaembu,ap de som,quae,Brastemp,funciona,40
+52,Centro,ap de som,pariatur,LG,defeito,24
+49,Pacaembu,TV,nam,Gradiente,defeito,90
+60,Campolim,Fogão,eos,Electrolux,defeito,30
+48,Campolim,ap de som,nobis,LG,funciona,40
+60,Vossoroca,micro-ondas,vel,Gradiente,defeito,60
+58,Vossoroca,micro-ondas,suscipit,LG,defeito,60
+26,Campolim,freezer,numquam,LG,funciona,200
+59,Vossoroca,micro-ondas,quaerat,LG,defeito,60
+58,Jd Primavera,micro-ondas,iusto,Electrolux,funciona,100
+31,Jd Primavera,computador,qui,Electrolux,funciona,110
+31,Jd Primavera,Fogão,neque,Electrolux,defeito,30
+51,Jd Primavera,freezer,assumenda,Gradiente,funciona,200
+45,Campolim,micro-ondas,et,LG,defeito,60
+67,Jd Primavera,TV,aperiam,Electrolux,funciona,150
+62,Centro,TV,porro,LG,defeito,90
+50,Jd Primavera,Fogão,veniam,LG,defeito,30
+47,Vossoroca,micro-ondas,minima,Brastemp,funciona,100
+49,Pacaembu,micro-ondas,explicabo,Electrolux,defeito,60
+33,Centro,Fogão,quaerat,Brastemp,funciona,50
+29,Pacaembu,Fogão,atque,Brastemp,funciona,50
+69,Jd Primavera,computador,delectus,Gradiente,funciona,110
+42,Pacaembu,ap de som,tenetur,Gradiente,defeito,24
+37,Campolim,ap de som,voluptatem,Electrolux,defeito,24
+55,Vossoroca,Fogão,velit,Electrolux,funciona,50
+64,Centro,Fogão,impedit,LG,defeito,30
+66,Campolim,TV,officiis,Gradiente,defeito,90
+33,Jd Primavera,ap de som,rerum,Brastemp,funciona,40
+44,Pacaembu,TV,dolor,Brastemp,funciona,150
+31,Campolim,freezer,excepturi,Brastemp,funciona,200
+61,Centro,computador,nulla,Brastemp,funciona,110
+50,Jd Primavera,Fogão,cupiditate,Samsung,funciona,50
+47,Pacaembu,ap de som,nulla,LG,funciona,40
+66,Campolim,micro-ondas,repellendus,Brastemp,defeito,60
+20,Campolim,freezer,numquam,Electrolux,funciona,200
+40,Pacaembu,computador,praesentium,LG,defeito,66
+18,Vossoroca,micro-ondas,fuga,LG,funciona,100
+49,Jd Primavera,Fogão,ea,Electrolux,funciona,50
+24,Pacaembu,Fogão,eum,Electrolux,defeito,30
+22,Pacaembu,computador,fugit,Gradiente,defeito,66
+68,Jd Primavera,TV,cumque,LG,defeito,90
+48,Jd Primavera,computador,unde,Brastemp,funciona,110
+25,Vossoroca,TV,quisquam,Samsung,funciona,150
+68,Jd Primavera,ap de som,corporis,Brastemp,funciona,40
+29,Centro,Fogão,nulla,Gradiente,funciona,50
+23,Jd Primavera,Fogão,sed,Brastemp,funciona,50
+38,Campolim,computador,optio,Samsung,funciona,110
+58,Pacaembu,TV,magnam,LG,funciona,150
+68,Pacaembu,computador,ex,Electrolux,defeito,66
+33,Vossoroca,freezer,earum,Brastemp,funciona,200
+50,Pacaembu,computador,fuga,Brastemp,funciona,110
+69,Vossoroca,computador,architecto,Gradiente,funciona,110
+41,Jd Primavera,TV,laborum,Brastemp,funciona,150
+41,Campolim,ap de som,corporis,LG,defeito,24
+62,Jd Primavera,computador,reiciendis,Gradiente,funciona,110
+35,Jd Primavera,Fogão,explicabo,Samsung,funciona,50
+66,Centro,freezer,nulla,LG,defeito,120
+48,Jd Primavera,ap de som,placeat,Samsung,defeito,24
+49,Pacaembu,Fogão,distinctio,Gradiente,defeito,30
+55,Jd Primavera,micro-ondas,corporis,Gradiente,funciona,100
+59,Centro,TV,odio,Brastemp,defeito,90
+42,Centro,Fogão,consequatur,Samsung,funciona,50
+40,Vossoroca,freezer,assumenda,Gradiente,funciona,200
+69,Jd Primavera,computador,illum,Samsung,funciona,110
+41,Campolim,computador,fuga,Brastemp,funciona,110
+50,Campolim,freezer,possimus,Brastemp,defeito,120
+67,Centro,micro-ondas,corporis,Brastemp,funciona,100
+36,Centro,micro-ondas,vel,Samsung,defeito,60
+50,Centro,micro-ondas,sapiente,LG,funciona,100
+29,Campolim,ap de som,fugit,Gradiente,defeito,24
+56,Centro,Fogão,consectetur,Electrolux,funciona,50
+52,Jd Primavera,Fogão,nemo,LG,defeito,30
+67,Vossoroca,TV,sapiente,Gradiente,funciona,150
+32,Vossoroca,computador,dolor,LG,funciona,110
+41,Centro,ap de som,sunt,Electrolux,funciona,40
+45,Campolim,freezer,earum,Electrolux,defeito,120
+40,Vossoroca,computador,non,Electrolux,defeito,66
+39,Pacaembu,TV,sequi,Samsung,funciona,150
+36,Jd Primavera,computador,corrupti,Samsung,funciona,110
+59,Centro,freezer,assumenda,Samsung,defeito,120
+20,Vossoroca,ap de som,praesentium,Gradiente,funciona,40
+56,Vossoroca,Fogão,dicta,Brastemp,funciona,50
+40,Campolim,freezer,molestiae,Brastemp,funciona,200
+64,Pacaembu,TV,necessitatibus,LG,funciona,150
+51,Centro,Fogão,ab,Brastemp,defeito,30
+63,Campolim,TV,voluptatem,Electrolux,defeito,90
+61,Vossoroca,ap de som,quod,LG,funciona,40
+39,Campolim,computador,nostrum,LG,defeito,66
+35,Centro,ap de som,impedit,Gradiente,defeito,24
+44,Centro,TV,dolor,Brastemp,funciona,150
+20,Pacaembu,micro-ondas,tenetur,Brastemp,funciona,100
+20,Campolim,micro-ondas,soluta,Gradiente,funciona,100
+47,Campolim,freezer,dignissimos,Gradiente,funciona,200
+56,Jd Primavera,ap de som,expedita,Brastemp,funciona,40
+43,Jd Primavera,TV,iusto,LG,defeito,90
+41,Pacaembu,Fogão,asperiores,Brastemp,funciona,50
+41,Campolim,freezer,modi,Gradiente,defeito,120
+56,Vossoroca,freezer,facere,Electrolux,funciona,200
+26,Vossoroca,ap de som,aliquam,LG,funciona,40
+60,Pacaembu,TV,corporis,Electrolux,defeito,90
+64,Jd Primavera,Fogão,eligendi,Electrolux,funciona,50
+19,Campolim,ap de som,amet,Gradiente,defeito,24
+37,Pacaembu,ap de som,praesentium,LG,defeito,24
+43,Pacaembu,micro-ondas,debitis,Electrolux,defeito,60
+35,Campolim,computador,possimus,Samsung,defeito,66
+63,Jd Primavera,TV,modi,Brastemp,defeito,90
+52,Centro,Fogão,hic,Electrolux,defeito,30
+44,Centro,Fogão,ex,Brastemp,funciona,50
+21,Centro,TV,itaque,Samsung,funciona,150
+27,Centro,computador,perspiciatis,Electrolux,funciona,110
+27,Pacaembu,ap de som,accusamus,Brastemp,defeito,24
+64,Jd Primavera,freezer,totam,Brastemp,funciona,200
+60,Campolim,micro-ondas,asperiores,Gradiente,defeito,60
+40,Campolim,computador,debitis,Gradiente,defeito,66
+24,Pacaembu,Fogão,illum,Samsung,defeito,30
+19,Jd Primavera,micro-ondas,voluptas,Gradiente,defeito,60
+42,Pacaembu,computador,quasi,Samsung,funciona,110
+61,Jd Primavera,micro-ondas,qui,LG,defeito,60
+69,Pacaembu,freezer,laborum,Electrolux,funciona,200
+25,Campolim,TV,consequatur,Samsung,funciona,150
+67,Centro,micro-ondas,at,Electrolux,defeito,60
+42,Jd Primavera,TV,labore,Samsung,defeito,90
+51,Pacaembu,freezer,excepturi,Samsung,funciona,200
+39,Centro,TV,assumenda,Gradiente,defeito,90
+19,Centro,TV,impedit,Brastemp,funciona,150
+32,Campolim,micro-ondas,maxime,LG,funciona,100
+32,Vossoroca,freezer,enim,LG,defeito,120
+25,Jd Primavera,computador,laboriosam,Gradiente,funciona,110
+42,Campolim,freezer,repellat,LG,funciona,200
+56,Jd Primavera,computador,nulla,Brastemp,defeito,66
+24,Campolim,micro-ondas,libero,Electrolux,funciona,100
+38,Jd Primavera,Fogão,est,Brastemp,defeito,30
+55,Campolim,TV,quo,Gradiente,funciona,150
+40,Centro,micro-ondas,nesciunt,LG,funciona,100
+51,Centro,Fogão,ipsum,Brastemp,funciona,50
+28,Pacaembu,computador,exercitationem,Brastemp,funciona,110
+57,Vossoroca,Fogão,eius,Gradiente,defeito,30
+36,Jd Primavera,freezer,facere,Electrolux,defeito,120
+59,Centro,computador,laborum,Gradiente,defeito,66
+43,Campolim,Fogão,dolorem,LG,defeito,30
+38,Vossoroca,micro-ondas,laudantium,Brastemp,defeito,60
+68,Pacaembu,computador,laborum,Gradiente,funciona,110
+66,Campolim,ap de som,voluptate,LG,funciona,40
+42,Pacaembu,freezer,id,Gradiente,defeito,120
+63,Campolim,ap de som,commodi,Electrolux,funciona,40
+51,Campolim,TV,architecto,LG,funciona,150
+57,Campolim,TV,vitae,Electrolux,funciona,150
+24,Vossoroca,computador,voluptatum,Gradiente,funciona,110
+28,Campolim,computador,consectetur,Gradiente,funciona,110
+59,Pacaembu,freezer,iste,LG,defeito,120
+57,Vossoroca,Fogão,similique,Gradiente,defeito,30
+23,Centro,ap de som,delectus,Electrolux,funciona,40
+30,Campolim,computador,possimus,LG,defeito,66
+55,Jd Primavera,ap de som,ipsa,Samsung,funciona,40
+19,Campolim,Fogão,maxime,LG,funciona,50
+34,Vossoroca,computador,deleniti,LG,funciona,110
+21,Centro,computador,quo,Brastemp,defeito,66
+65,Jd Primavera,computador,debitis,Gradiente,funciona,110
+32,Campolim,TV,animi,Electrolux,defeito,90
+49,Pacaembu,TV,suscipit,LG,funciona,150
+23,Campolim,micro-ondas,maxime,Electrolux,defeito,60
+40,Centro,ap de som,repellendus,Brastemp,funciona,40
+47,Campolim,TV,autem,Brastemp,defeito,90
+61,Campolim,ap de som,sint,Brastemp,funciona,40
+66,Centro,micro-ondas,atque,Samsung,defeito,60
+49,Campolim,micro-ondas,dolor,LG,defeito,60
+42,Jd Primavera,micro-ondas,provident,Samsung,funciona,100
+25,Centro,freezer,sit,LG,defeito,120
+54,Campolim,freezer,expedita,Samsung,defeito,120
+23,Vossoroca,Fogão,asperiores,Samsung,defeito,30
+70,Pacaembu,micro-ondas,adipisci,LG,funciona,100
+48,Pacaembu,TV,vitae,Electrolux,funciona,150
+27,Jd Primavera,Fogão,minus,Samsung,funciona,50
+23,Vossoroca,computador,unde,Electrolux,funciona,110
+53,Pacaembu,Fogão,consequuntur,Samsung,funciona,50
+60,Pacaembu,Fogão,voluptas,Brastemp,defeito,30
+62,Vossoroca,freezer,laudantium,LG,defeito,120
+53,Vossoroca,freezer,suscipit,Brastemp,defeito,120
+57,Campolim,Fogão,officiis,Samsung,funciona,50
+45,Jd Primavera,TV,maxime,Gradiente,funciona,150
+45,Jd Primavera,ap de som,dolores,Electrolux,defeito,24
+19,Campolim,micro-ondas,repudiandae,LG,funciona,100
+32,Centro,freezer,soluta,Electrolux,defeito,120
+58,Pacaembu,freezer,repellendus,Electrolux,funciona,200
+69,Centro,computador,sed,Gradiente,defeito,66
+53,Centro,micro-ondas,maxime,Gradiente,funciona,100
+62,Jd Primavera,micro-ondas,voluptate,Brastemp,defeito,60
+48,Pacaembu,ap de som,commodi,LG,funciona,40
+68,Vossoroca,TV,libero,Electrolux,funciona,150
+30,Campolim,micro-ondas,laudantium,Samsung,funciona,100
+68,Campolim,micro-ondas,soluta,Samsung,defeito,60
+62,Pacaembu,Fogão,corrupti,Brastemp,funciona,50
+53,Pacaembu,computador,sapiente,Electrolux,defeito,66
+66,Campolim,Fogão,nesciunt,Electrolux,defeito,30
+42,Pacaembu,computador,porro,Samsung,defeito,66
+19,Centro,computador,expedita,Electrolux,defeito,66
+25,Pacaembu,Fogão,possimus,Samsung,funciona,50
+54,Vossoroca,freezer,rerum,Gradiente,funciona,200
+46,Campolim,computador,sunt,Samsung,funciona,110
+46,Jd Primavera,ap de som,laborum,Gradiente,defeito,24
+22,Campolim,Fogão,ex,Samsung,defeito,30
+47,Campolim,computador,necessitatibus,Samsung,defeito,66
+21,Campolim,Fogão,eum,Brastemp,funciona,50
+58,Jd Primavera,computador,illo,LG,defeito,66
+20,Jd Primavera,computador,eos,LG,defeito,66
+38,Pacaembu,micro-ondas,hic,Brastemp,defeito,60
+21,Vossoroca,TV,aliquid,Brastemp,defeito,90
+70,Centro,ap de som,assumenda,Brastemp,defeito,24
+23,Jd Primavera,TV,qui,LG,funciona,150
+31,Pacaembu,ap de som,libero,Brastemp,defeito,24
+52,Campolim,TV,qui,Gradiente,defeito,90
+68,Campolim,micro-ondas,impedit,LG,funciona,100
+70,Jd Primavera,Fogão,quibusdam,LG,defeito,30
+37,Jd Primavera,ap de som,quaerat,LG,defeito,24
+62,Pacaembu,computador,molestiae,Gradiente,funciona,110
+63,Campolim,TV,corporis,Gradiente,defeito,90
+36,Campolim,TV,veniam,Samsung,defeito,90
+69,Vossoroca,freezer,accusantium,Electrolux,funciona,200
+68,Pacaembu,freezer,sequi,Brastemp,defeito,120
+52,Vossoroca,Fogão,explicabo,LG,funciona,50
+60,Jd Primavera,micro-ondas,commodi,Samsung,defeito,60
+28,Centro,computador,cumque,Samsung,defeito,66
+37,Jd Primavera,freezer,quos,Gradiente,defeito,120
+20,Vossoroca,micro-ondas,eos,Samsung,defeito,60
+54,Campolim,freezer,minima,Samsung,funciona,200
+30,Pacaembu,computador,vel,Gradiente,defeito,66
+39,Pacaembu,ap de som,aliquid,LG,funciona,40
+55,Campolim,ap de som,saepe,LG,defeito,24
+61,Centro,computador,veritatis,Brastemp,defeito,66
+51,Pacaembu,ap de som,delectus,Gradiente,defeito,24
+70,Campolim,Fogão,dicta,Brastemp,defeito,30
+40,Centro,freezer,placeat,LG,funciona,200
+43,Centro,micro-ondas,fugiat,Electrolux,funciona,100
+37,Vossoroca,ap de som,eius,Gradiente,defeito,24
+53,Campolim,freezer,ex,Electrolux,defeito,120
+65,Centro,TV,totam,Samsung,defeito,90
+52,Jd Primavera,Fogão,cumque,LG,funciona,50
+35,Vossoroca,freezer,labore,Brastemp,funciona,200
+45,Jd Primavera,micro-ondas,optio,Gradiente,defeito,60
+27,Campolim,micro-ondas,magnam,Gradiente,defeito,60
+67,Centro,freezer,voluptate,Electrolux,funciona,200
+30,Jd Primavera,Fogão,eaque,Samsung,funciona,50
+26,Pacaembu,Fogão,porro,LG,defeito,30
+50,Jd Primavera,micro-ondas,sunt,Samsung,funciona,100
+54,Jd Primavera,TV,laborum,Samsung,defeito,90
+20,Campolim,freezer,velit,Electrolux,defeito,120
+66,Jd Primavera,ap de som,dolore,LG,defeito,24
+39,Jd Primavera,freezer,cumque,LG,funciona,200
+32,Campolim,micro-ondas,fuga,LG,defeito,60
+70,Campolim,ap de som,iusto,Electrolux,funciona,40
+45,Campolim,ap de som,facilis,Samsung,defeito,24
+37,Campolim,micro-ondas,occaecati,Gradiente,defeito,60
+68,Vossoroca,computador,culpa,Gradiente,funciona,110
+60,Pacaembu,ap de som,odio,Gradiente,funciona,40
+27,Vossoroca,ap de som,assumenda,Electrolux,funciona,40
+66,Jd Primavera,Fogão,eligendi,Samsung,defeito,30
+52,Centro,TV,amet,Electrolux,defeito,90
+34,Jd Primavera,ap de som,saepe,Samsung,defeito,24
+69,Vossoroca,TV,labore,LG,defeito,90
+24,Pacaembu,TV,inventore,LG,defeito,90
+28,Jd Primavera,ap de som,consectetur,Gradiente,funciona,40
+67,Centro,freezer,aspernatur,Brastemp,funciona,200
+33,Campolim,ap de som,accusamus,Brastemp,defeito,24
+60,Centro,ap de som,nostrum,Brastemp,funciona,40
+53,Campolim,computador,perferendis,Electrolux,funciona,110
+51,Jd Primavera,freezer,a,Gradiente,defeito,120
+39,Campolim,micro-ondas,reprehenderit,Gradiente,funciona,100
+37,Pacaembu,TV,cumque,LG,funciona,150
+28,Jd Primavera,freezer,repellat,LG,defeito,120
+67,Jd Primavera,micro-ondas,iste,Gradiente,defeito,60
+18,Jd Primavera,TV,commodi,Electrolux,funciona,150
+21,Campolim,ap de som,labore,Brastemp,defeito,24
+19,Vossoroca,Fogão,accusantium,Brastemp,funciona,50
+70,Vossoroca,computador,illo,Gradiente,funciona,110
+38,Pacaembu,Fogão,voluptatibus,Gradiente,defeito,30
+64,Jd Primavera,computador,adipisci,Gradiente,funciona,110
+61,Campolim,TV,consequatur,Gradiente,defeito,90
+44,Vossoroca,freezer,aliquid,LG,funciona,200
+63,Pacaembu,TV,distinctio,Brastemp,funciona,150
+27,Jd Primavera,computador,pariatur,Brastemp,funciona,110
+44,Vossoroca,freezer,provident,Electrolux,defeito,120
+57,Campolim,Fogão,voluptatum,Brastemp,defeito,30
+21,Centro,micro-ondas,corporis,Brastemp,defeito,60
+44,Pacaembu,micro-ondas,dignissimos,Brastemp,defeito,60
+68,Vossoroca,computador,architecto,Samsung,defeito,66
+52,Jd Primavera,computador,nostrum,LG,defeito,66
+70,Centro,ap de som,saepe,Electrolux,funciona,40
+33,Vossoroca,ap de som,maiores,Samsung,funciona,40
+69,Jd Primavera,computador,non,Samsung,funciona,110
+52,Jd Primavera,computador,mollitia,LG,defeito,66
+26,Centro,TV,porro,LG,funciona,150
+20,Centro,Fogão,doloremque,Electrolux,funciona,50
+32,Pacaembu,micro-ondas,at,Electrolux,funciona,100
+59,Campolim,ap de som,atque,Samsung,defeito,24
+69,Jd Primavera,micro-ondas,eos,Samsung,funciona,100
+65,Vossoroca,micro-ondas,distinctio,Samsung,funciona,100
+51,Campolim,micro-ondas,assumenda,Gradiente,defeito,60
+31,Campolim,Fogão,ullam,Brastemp,defeito,30
+27,Pacaembu,micro-ondas,soluta,LG,defeito,60
+52,Centro,TV,dolorem,Electrolux,defeito,90
+20,Campolim,Fogão,voluptatibus,Electrolux,funciona,50
+39,Centro,computador,nostrum,Brastemp,funciona,110
+63,Centro,micro-ondas,minima,Samsung,funciona,100
+35,Centro,TV,voluptas,Samsung,funciona,150
+24,Pacaembu,freezer,minima,LG,funciona,200
+52,Campolim,Fogão,temporibus,LG,defeito,30
+21,Jd Primavera,micro-ondas,at,Electrolux,defeito,60
+39,Vossoroca,Fogão,aspernatur,Gradiente,funciona,50
+57,Jd Primavera,freezer,voluptate,Gradiente,defeito,120
+59,Jd Primavera,Fogão,perferendis,Brastemp,defeito,30
+18,Jd Primavera,freezer,nisi,Brastemp,funciona,200
+51,Centro,ap de som,excepturi,Electrolux,defeito,24
+30,Jd Primavera,micro-ondas,totam,Brastemp,funciona,100
+35,Vossoroca,ap de som,soluta,Electrolux,defeito,24
+59,Jd Primavera,micro-ondas,voluptas,Brastemp,defeito,60
+31,Pacaembu,computador,ut,Samsung,defeito,66
+18,Centro,ap de som,aut,Samsung,funciona,40
+59,Jd Primavera,micro-ondas,excepturi,Samsung,funciona,100
+47,Vossoroca,TV,quod,Gradiente,funciona,150
+62,Campolim,micro-ondas,nam,Samsung,defeito,60
+30,Vossoroca,ap de som,unde,Gradiente,defeito,24
+38,Centro,TV,ratione,Brastemp,funciona,150
+37,Pacaembu,Fogão,iusto,Electrolux,funciona,50
+64,Campolim,computador,delectus,Electrolux,defeito,66
+32,Centro,TV,culpa,LG,funciona,150
+56,Jd Primavera,TV,excepturi,Gradiente,defeito,90
+36,Vossoroca,Fogão,optio,Samsung,defeito,30
+40,Campolim,freezer,aperiam,LG,defeito,120
+62,Centro,micro-ondas,vero,Gradiente,funciona,100
+54,Pacaembu,TV,harum,Gradiente,funciona,150
+46,Centro,TV,libero,LG,funciona,150
+53,Pacaembu,micro-ondas,optio,Samsung,funciona,100
+69,Pacaembu,ap de som,quisquam,Gradiente,defeito,24
+47,Vossoroca,Fogão,quia,Gradiente,funciona,50
+43,Campolim,TV,ad,Electrolux,funciona,150
+63,Campolim,ap de som,esse,LG,defeito,24
+67,Vossoroca,TV,explicabo,LG,funciona,150
+30,Campolim,freezer,quisquam,Gradiente,funciona,200
+68,Jd Primavera,computador,eum,Samsung,defeito,66
+66,Vossoroca,ap de som,eaque,Electrolux,defeito,24
+46,Vossoroca,ap de som,perferendis,Electrolux,funciona,40
+68,Jd Primavera,ap de som,voluptate,Samsung,funciona,40
+54,Centro,micro-ondas,beatae,Brastemp,defeito,60
+58,Centro,TV,vitae,Electrolux,funciona,150
+18,Pacaembu,computador,est,Samsung,funciona,110
+20,Centro,computador,architecto,Gradiente,funciona,110
+33,Centro,TV,eos,Brastemp,funciona,150
+43,Centro,computador,error,Electrolux,funciona,110
+53,Centro,TV,facere,Electrolux,defeito,90
+54,Vossoroca,ap de som,repellendus,Samsung,funciona,40
+24,Pacaembu,ap de som,dolor,Samsung,funciona,40
+61,Campolim,ap de som,repellat,LG,funciona,40
+18,Jd Primavera,ap de som,iure,Gradiente,funciona,40
+47,Centro,micro-ondas,totam,Samsung,defeito,60
+37,Pacaembu,ap de som,sint,Brastemp,funciona,40
+27,Campolim,TV,labore,Gradiente,defeito,90
+36,Jd Primavera,TV,nobis,Samsung,defeito,90
+31,Centro,micro-ondas,ipsum,Gradiente,funciona,100
+18,Jd Primavera,micro-ondas,voluptate,Brastemp,defeito,60
+55,Vossoroca,Fogão,amet,LG,funciona,50
+37,Centro,computador,ipsam,LG,funciona,110
+57,Campolim,computador,molestias,Gradiente,funciona,110
+18,Vossoroca,Fogão,ducimus,Samsung,defeito,30
+61,Vossoroca,micro-ondas,nam,Brastemp,defeito,60
+25,Pacaembu,TV,eum,Samsung,funciona,150
+37,Jd Primavera,Fogão,suscipit,Brastemp,funciona,50
+64,Vossoroca,ap de som,debitis,Brastemp,funciona,40
+45,Pacaembu,micro-ondas,debitis,Brastemp,funciona,100
+34,Vossoroca,ap de som,rem,Gradiente,funciona,40
+63,Pacaembu,freezer,consequuntur,Gradiente,defeito,120
+70,Jd Primavera,TV,unde,Gradiente,defeito,90
+48,Jd Primavera,computador,debitis,LG,defeito,66
+26,Campolim,micro-ondas,ea,Electrolux,defeito,60
+56,Campolim,micro-ondas,ducimus,LG,defeito,60
+63,Vossoroca,Fogão,nulla,Gradiente,funciona,50
+28,Campolim,computador,repellendus,LG,funciona,110
+35,Jd Primavera,micro-ondas,libero,Brastemp,defeito,60
+51,Campolim,computador,corrupti,Samsung,defeito,66
+63,Campolim,ap de som,ullam,Electrolux,defeito,24
+51,Pacaembu,micro-ondas,quidem,Gradiente,funciona,100
+21,Campolim,ap de som,voluptatibus,Samsung,defeito,24
+51,Vossoroca,Fogão,fugit,Gradiente,defeito,30
+53,Pacaembu,computador,praesentium,Brastemp,defeito,66
+58,Jd Primavera,micro-ondas,maxime,Samsung,defeito,60
+21,Centro,ap de som,impedit,Gradiente,funciona,40
+49,Vossoroca,ap de som,quaerat,Electrolux,funciona,40
+56,Campolim,computador,eaque,Samsung,funciona,110
+21,Pacaembu,TV,molestiae,Gradiente,funciona,150
+59,Vossoroca,Fogão,culpa,Brastemp,defeito,30
+35,Centro,freezer,tempore,Brastemp,funciona,200
+50,Campolim,ap de som,tempora,Gradiente,funciona,40
+33,Jd Primavera,freezer,numquam,Electrolux,funciona,200
+20,Pacaembu,freezer,nesciunt,Electrolux,funciona,200
+45,Jd Primavera,computador,et,Samsung,defeito,66
+34,Campolim,computador,consequuntur,Electrolux,defeito,66
+28,Centro,micro-ondas,sint,Electrolux,funciona,100
+53,Pacaembu,computador,voluptate,Samsung,defeito,66
+69,Centro,computador,beatae,Electrolux,defeito,66
+34,Campolim,computador,perferendis,LG,funciona,110
+63,Jd Primavera,computador,vel,LG,funciona,110
+65,Vossoroca,freezer,porro,Samsung,defeito,120
+43,Jd Primavera,computador,excepturi,LG,funciona,110
+59,Centro,Fogão,eius,Gradiente,defeito,30
+39,Jd Primavera,ap de som,facilis,Gradiente,funciona,40
+23,Campolim,Fogão,fugiat,Electrolux,funciona,50
+38,Campolim,ap de som,at,Brastemp,defeito,24
+25,Jd Primavera,micro-ondas,nesciunt,Gradiente,funciona,100
+33,Pacaembu,Fogão,nobis,Electrolux,funciona,50
+23,Campolim,ap de som,tempore,Gradiente,defeito,24
+46,Jd Primavera,freezer,consequatur,Brastemp,defeito,120
+69,Centro,ap de som,odio,Gradiente,funciona,40
+55,Centro,computador,ipsa,Brastemp,funciona,110
+65,Vossoroca,ap de som,nam,Gradiente,funciona,40
+23,Vossoroca,TV,numquam,Gradiente,funciona,150
+56,Jd Primavera,Fogão,sint,Gradiente,funciona,50
+50,Campolim,TV,ipsam,Gradiente,defeito,90
+20,Centro,TV,pariatur,Brastemp,funciona,150
+25,Centro,ap de som,voluptas,Brastemp,funciona,40
+28,Centro,freezer,quas,LG,funciona,200
+20,Centro,micro-ondas,commodi,Samsung,defeito,60
+65,Pacaembu,Fogão,nemo,Brastemp,funciona,50
+23,Centro,freezer,ullam,Samsung,defeito,120
+22,Jd Primavera,freezer,deserunt,Gradiente,defeito,120
+70,Jd Primavera,Fogão,nisi,Electrolux,funciona,50
+46,Vossoroca,Fogão,tempore,Samsung,funciona,50
+55,Jd Primavera,ap de som,libero,Gradiente,defeito,24
+22,Centro,ap de som,atque,Electrolux,defeito,24
+33,Campolim,freezer,labore,Gradiente,defeito,120
+49,Campolim,ap de som,fugiat,Brastemp,funciona,40
+47,Pacaembu,freezer,distinctio,Brastemp,defeito,120
+56,Jd Primavera,TV,sapiente,LG,defeito,90
+36,Jd Primavera,TV,consectetur,LG,defeito,90
+51,Campolim,Fogão,quaerat,Electrolux,defeito,30
+58,Campolim,computador,a,Samsung,defeito,66
+18,Pacaembu,TV,assumenda,LG,defeito,90
+41,Pacaembu,ap de som,consectetur,Electrolux,funciona,40
+55,Centro,TV,molestiae,Samsung,defeito,90
+36,Campolim,micro-ondas,excepturi,Electrolux,funciona,100
+62,Campolim,Fogão,sint,Brastemp,defeito,30
+65,Jd Primavera,micro-ondas,sunt,Gradiente,funciona,100
+33,Campolim,Fogão,numquam,LG,defeito,30
+53,Campolim,freezer,alias,Gradiente,funciona,200
+22,Pacaembu,ap de som,quas,LG,funciona,40
+60,Jd Primavera,computador,dolore,Brastemp,funciona,110
+20,Pacaembu,computador,non,Electrolux,defeito,66
+61,Centro,freezer,eos,Gradiente,funciona,200
+31,Centro,computador,temporibus,Samsung,funciona,110
+46,Campolim,micro-ondas,ratione,Electrolux,funciona,100
+44,Jd Primavera,freezer,commodi,Brastemp,defeito,120
+65,Jd Primavera,freezer,nobis,Brastemp,defeito,120
+25,Centro,ap de som,minus,Brastemp,funciona,40
+57,Centro,freezer,quisquam,Brastemp,defeito,120
+57,Pacaembu,freezer,occaecati,LG,defeito,120
+51,Centro,freezer,perspiciatis,Brastemp,defeito,120
+29,Vossoroca,computador,nisi,Samsung,funciona,110
+48,Vossoroca,Fogão,veritatis,LG,funciona,50
+68,Vossoroca,computador,pariatur,LG,funciona,110
+36,Jd Primavera,Fogão,ipsa,Gradiente,defeito,30
+18,Campolim,Fogão,eveniet,Brastemp,defeito,30
+32,Centro,freezer,beatae,Samsung,funciona,200
+60,Campolim,freezer,quia,LG,defeito,120
+40,Centro,ap de som,hic,Gradiente,defeito,24
+61,Centro,micro-ondas,inventore,Brastemp,funciona,100
+38,Jd Primavera,micro-ondas,consequatur,LG,funciona,100
+41,Centro,TV,optio,Brastemp,funciona,150
+54,Campolim,freezer,corporis,Brastemp,funciona,200
+20,Jd Primavera,computador,enim,LG,funciona,110
+43,Pacaembu,ap de som,natus,LG,funciona,40
+66,Campolim,TV,nisi,Brastemp,funciona,150
+61,Vossoroca,ap de som,deserunt,Brastemp,funciona,40
+47,Jd Primavera,micro-ondas,officiis,Gradiente,funciona,100
+23,Jd Primavera,freezer,adipisci,Gradiente,defeito,120
+36,Vossoroca,ap de som,laboriosam,Gradiente,funciona,40
+33,Vossoroca,TV,dolore,Samsung,funciona,150
+27,Campolim,TV,saepe,Brastemp,defeito,90
+62,Vossoroca,freezer,voluptates,LG,funciona,200
+47,Centro,micro-ondas,quo,Electrolux,defeito,60
+55,Campolim,Fogão,explicabo,Samsung,defeito,30
+25,Vossoroca,TV,unde,LG,funciona,150
+44,Jd Primavera,ap de som,aliquam,LG,funciona,40
+34,Jd Primavera,ap de som,velit,Gradiente,funciona,40
+62,Pacaembu,ap de som,quisquam,LG,funciona,40
+22,Vossoroca,computador,consequatur,Electrolux,funciona,110
+47,Centro,freezer,harum,Gradiente,funciona,200
+40,Jd Primavera,computador,exercitationem,Gradiente,funciona,110
+46,Jd Primavera,micro-ondas,magnam,Samsung,funciona,100
+31,Centro,freezer,itaque,Brastemp,funciona,200
+25,Jd Primavera,ap de som,laudantium,Gradiente,funciona,40
+35,Campolim,computador,maxime,Samsung,funciona,110
+23,Vossoroca,ap de som,cumque,Samsung,defeito,24
+20,Vossoroca,freezer,tenetur,Samsung,funciona,200
+25,Campolim,ap de som,mollitia,Electrolux,defeito,24
+47,Campolim,computador,ipsam,Gradiente,funciona,110
+27,Pacaembu,freezer,quae,Electrolux,defeito,120
+49,Centro,TV,facilis,Gradiente,funciona,150
+46,Pacaembu,Fogão,optio,LG,funciona,50
+27,Pacaembu,TV,illo,Samsung,funciona,150
+63,Centro,freezer,corporis,Gradiente,funciona,200
+29,Centro,TV,recusandae,Samsung,funciona,150
+58,Campolim,micro-ondas,beatae,Electrolux,funciona,100
+39,Campolim,ap de som,quis,Gradiente,funciona,40
+20,Pacaembu,freezer,architecto,Brastemp,funciona,200
+43,Centro,micro-ondas,magni,Samsung,defeito,60
+33,Jd Primavera,ap de som,corporis,Brastemp,defeito,24
