@@ -2,3 +2,42 @@ scriptsParaProjeto_env/venv_tf
 MultilayerPerceptron/Projeto_env
 Atividade_2/venv310
 Atividade_2/venv
+
+# Bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos/distribuições geradas
+build/
+dist/
+*.egg-info/
+
+# Ambiente virtual
+venv/
+.env/
+.env/
+
+# IDEs / editores
+.vscode/
+.idea/
+
+# Logs, caches, cobertura, notebooks
+*.log
+htmlcov/
+.coverage*
+.cache/
+.ipynb_checkpoints/
+
+# Outros arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar ambientes virtuais e caches em qualquer pasta
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.log
+.vscode/
